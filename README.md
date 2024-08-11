@@ -2,7 +2,7 @@
 
 This is a simple implementation of a virtual list component using Vue 3. The virtual list efficiently renders only the items that are in the visible area of the scrollable container, significantly improving performance when dealing with large datasets.
 
-![alt text](image.png)
+![alt text](./src/assets/image.png)
 
 ## Features
 
